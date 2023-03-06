@@ -1,0 +1,18 @@
+.card{
+max-width: 70%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid #0000;
+  padding: 20px;
+  border-radius: 50px;
+  box-shadow: 5px 5px 5px;
+}
+.card-title{
+    font-weight: 600;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: 600;
+}
+
